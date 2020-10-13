@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+#projetoweb {
+    padding-left: 100px;
+    padding-top: 40px;
+}
+
+#faceinsta {
+    padding-left: 200px;
+    padding-top: 40px;
+}
+
+#telefoneimg {
+    padding-left: 200px;
+}
+
+#telefone {
+    font-size: 30px;
+    color: rgb(138, 138, 138);
+}
+
+.menu2 {
+    margin-top: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(114, 63, 0);
+    width: 100%;
+}
+
+#criaçaodesites {
+    padding-left: 115px;
+    font-size: 27px;
+    color: white;
+}
+
+#serviços {
+    padding-left: 115px;
+    font-size: 27px;
+    color: white;
+}
+
+#hospedagemdesites {
+    padding-left: 115px;
+    font-size: 27px;
+    color: white;
+}
+
+#manutençaoparasites {
+    padding-left: 115px;
+    font-size: 27px;
+    color: white;
+}
+
+#respsocial {
+    padding-left: 115px;
+    font-size: 27px;
+    color: white;
+}
+
+#tutoriais {
+    padding-left: 115px;
+    font-size: 27px;
+    color: white;
+}
